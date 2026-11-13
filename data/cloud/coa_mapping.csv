@@ -1,0 +1,64 @@
+Legacy Combination,Legacy Description,Legacy Status,Legacy Net Balance,Target Combination,Segment1,Segment2,Segment3,Segment4,Segment5,Mapping Type,Notes,Flag
+01-10100-000,Cash - Operating,Active,1850000000.00,101-90-9000-110000-000,101,90,9000,110000,000,1:1,Direct mapping.,OK
+01-10110-000,CASH-OPERATING ACCT,Inactive,0.00,,,,,,,Retired,Inactive since 2019; duplicate of operating cash. Retire.,RETIRED
+02-10200-000,Due From Banks - Intl,Active,420000000.00,201-90-9000-110000-000,201,90,9000,110000,000,1:1,Direct mapping.,OK
+01-12000-100,Card Member Receivables - Consumer,Active,4200118402.17,101-10-1100-121000-000,101,10,1100,121000,000,1:1,Direct mapping.,OK
+01-12000-200,CM Recv - Corporate Card,Active,3100552910.40,101-20-2100-121000-000,101,20,2100,121000,000,Many:1,Consolidated with 01-12010-200.,OK
+01-12010-200,CM RECV CORP CARD,Active,260004118.25,101-20-2100-121000-000,101,20,2100,121000,000,Many:1,Consolidated with 01-12000-200.,OK
+02-12000-300,Card Member Receivables - Intl,Active,1350207655.80,201-30-3100-121000-000,201,30,3100,121000,000,1:1,Direct mapping.,OK
+01-12900-000,Reserve for Credit Losses - Receivables,Active,-95000000.00,101-90-9000-129000-000,101,90,9000,129000,000,1:1,Direct mapping.,OK
+01-13000-100,Card Member Loans - Consumer,Active,9800431220.66,101-10-1100-131000-000,101,10,1100,131000,000,1:1,Direct mapping.,OK
+01-13000-210,Card Member Loans - Small Business,Active,1900250330.10,101-20-2200-131000-000,101,20,2200,131000,000,1:1,Direct mapping.,OK
+02-13000-300,CM Loans Intl,Active,1100009871.45,201-30-3100-131000-000,201,30,3100,131000,000,1:1,Direct mapping.,OK
+01-13900-000,Reserve for Credit Losses - Loans,Active,-520000000.00,101-90-9000-139000-000,101,90,9000,139000,000,1:1,Direct mapping.,OK
+01-14000-400,Merchant Settlement Receivable,Active,640337120.93,101-40-4100-141000-000,101,40,4100,141000,000,1:1,Direct mapping.,OK
+01-15000-900,I/C Receivable - Meridian Intl,Active,310000000.00,101-90-9100-151000-201,101,90,9100,151000,201,1:1,Direct mapping.,OK
+01-16000-900,Premises & Equipment,Active,980450000.00,101-90-9100-161000-000,101,90,9100,161000,000,1:1,Direct mapping.,OK
+01-16900-900,Accum Depr - P&E,Active,-410225000.00,101-90-9100-169000-000,101,90,9100,169000,000,1:1,Direct mapping.,OK
+01-17000-900,Prepaid Expenses,Active,145018450.00,101-90-9100-171000-000,101,90,9100,171000,000,1:1,Direct mapping.,OK
+01-17010-900,PREPAID EXP (OLD),Inactive,0.00,,,,,,,Retired,Inactive since 2018; superseded by 17000. Retire.,RETIRED
+01-19999-000,CONVERSION CLEARING,Active,0.00,,,,,,,Unmapped,Conversion clearing account from a 2021 project. No owner identified - awaiting decision.,UNMAPPED
+01-20000-900,Customer Deposits,Active,-12600880412.55,101-90-9100-211000-000,101,90,9100,211000,000,1:1,Direct mapping.,OK
+01-21000-400,Accounts Payable - Merchants,Active,-2450118903.42,101-40-4100-221000-000,101,40,4100,221000,000,Many:1,Consolidated with 01-21010-400.,OK
+01-21010-400,A/P MERCHANT SETTLEMENT,Active,-180002115.00,101-40-4100-221000-000,101,40,4100,221000,000,Many:1,Consolidated with 01-21000-400.,OK
+01-22000-100,Membership Rewards Liability,Active,-1650440208.31,101-10-1100-231000-000,101,10,1100,231000,000,1:1,Direct mapping.,OK
+02-22000-300,Rewards Liab - Intl,Active,-230118660.12,201-30-3100-231000-000,201,30,3100,231000,000,1:1,Direct mapping.,OK
+01-23000-900,Accrued Expenses,Active,-390771402.08,101-90-9100-232000-000,101,90,9100,232000,000,1:1,Direct mapping.,OK
+02-25000-900,I/C Payable - Meridian US,Active,-310000000.00,201-90-9100-251000-101,201,90,9100,251000,101,1:1,Direct mapping.,OK
+01-26000-900,Long-Term Debt,Active,-3900000000.00,101-90-9100-261000-000,101,90,9100,261000,000,1:1,Direct mapping.,OK
+01-30000-900,Common Stock,Active,-50000000.00,101-90-9100-311000-000,101,90,9100,311000,000,1:1,Direct mapping.,OK
+01-31000-900,Retained Earnings,Active,-478802098.01,101-90-9100-321000-000,101,90,9100,321000,000,1:1,Direct mapping.,OK
+02-31000-900,Retained Earnings - Intl,Active,-2007667444.06,201-90-9100-321000-000,201,90,9100,321000,000,1:1,Direct mapping.,OK
+01-40000-400,Discount Revenue - US Merchants,Active,-2350602118.40,101-40-4100-411000-000,101,40,4100,411000,000,Many:1,Consolidated with 01-40010-400.,OK
+01-40010-400,DISC REV MERCH,Active,-95110402.16,101-40-4100-411000-000,101,40,4100,411000,000,Many:1,Consolidated with 01-40000-400.,OK
+02-40000-400,Discount Revenue - Intl Merchants,Active,-410330995.71,201-40-4100-411000-000,201,40,4100,411000,000,1:1,Direct mapping.,OK
+01-41000-100,Card Fees - Consumer,Active,-720118400.00,101-10-1100-421000-000,101,10,1100,421000,000,1:1,Direct mapping.,OK
+01-41000-200,card fees - corporate,Active,-260440150.00,101-20-2100-421000-000,101,20,2100,421000,000,1:1,Direct mapping.,OK
+02-41000-300,NET CARD FEES INTL,Active,-140221870.00,201-30-3100-421000-000,201,30,3100,421000,000,1:1,Direct mapping.,OK
+02-42000-300,Service Fees - FX Conversion,Active,-98440215.33,201-30-3100-431000-000,201,30,3100,431000,000,1:1,Direct mapping.,OK
+01-42010-100,Delinquency Fees,Active,-64118002.19,101-10-1100-431000-000,101,10,1100,431000,000,1:1,Direct mapping.,OK
+01-42020-410,Network Partnership Fees,Active,-150660418.00,101-40-4200-432000-000,101,40,4200,432000,000,1:1,Direct mapping.,OK
+01-43000-100,Interest Income - CM Loans Consumer,Active,-1480225119.84,101-10-1100-441000-000,101,10,1100,441000,000,1:1,Direct mapping.,OK
+01-43000-210,Int Inc - CM Loans SB,Active,-260118440.29,101-20-2200-441000-000,101,20,2200,441000,000,1:1,Direct mapping.,OK
+01-43100-900,Interest on Deposits w/ Banks,Active,-150442009.12,101-90-9100-442000-000,101,90,9100,442000,000,1:1,Direct mapping.,OK
+01-44000-900,Interest Expense - Customer Deposits,Active,360118402.55,101-90-9100-451000-000,101,90,9100,451000,000,1:1,Direct mapping.,OK
+01-44100-900,Int Exp - LT Debt,Active,190004118.00,101-90-9100-452000-000,101,90,9100,452000,000,1:1,Direct mapping.,OK
+01-45000-200,Provision - CM Receivables,Active,62118440.00,101-20-2100-461000-000,101,20,2100,461000,000,1:1,Direct mapping.,OK
+01-45100-100,Provision - CM Loans,Active,330440118.62,101-10-1100-462000-000,101,10,1100,462000,000,1:1,Direct mapping.,OK
+02-45100-300,Provision CM Loans Intl,Active,41002995.18,201-30-3100-462000-000,201,30,3100,462000,000,1:1,Direct mapping.,OK
+01-50000-100,Card Member Rewards - Consumer,Active,1280440219.47,101-10-1100-511000-000,101,10,1100,511000,000,1:1,Direct mapping.,OK
+02-50000-300,CM Rewards - Intl,Active,165118002.09,201-30-3100-511000-000,201,30,3100,511000,000,1:1,Direct mapping.,OK
+01-50010-100,REWARDS EXP (LEGACY),Inactive,0.00,,,,,,,Retired,Inactive legacy rewards account; replaced by 50000. Retire.,RETIRED
+01-51000-100,Business Development - Cobrand Partners,Active,520660118.20,101-10-1100-521000-000,101,10,1100,521000,000,1:1,Direct mapping.,OK
+01-51000-200,Bus Dev - Corporate Clients,Active,140118225.00,101-20-2100-521000-000,101,20,2100,521000,000,1:1,Direct mapping.,OK
+01-52000-100,Card Member Services - Travel Benefits,Active,470225660.18,101-10-1100-531000-000,101,10,1100,531000,000,1:1,Direct mapping.,OK
+01-52010-110,CM SERVICES - CONCIERGE,Active,0.00,,101,,,531000,000,1:1,Legacy cost center 110 has no owner in the new structure; Cost Center and Line of Business left blank pending decision.,MISSING SEGMENT
+01-53000-900,Marketing - Brand,Active,330118440.00,101-90-9100-541000-000,101,90,9100,541000,000,1:1,Direct mapping.,OK
+01-53000-100,Marketing - Acquisition,Active,210660225.40,101-10-1100-541000-000,101,10,1100,541000,000,1:1,Direct mapping.,OK
+01-54000-900,Salaries & Benefits,Active,760225118.33,101-90-9100-551000-000,101,90,9100,551000,000,1:1,Combination appears twice in legacy COA with different descriptions; de-duplicated.,OK
+02-54000-900,Salaries & benefits - Intl,Active,120440660.70,201-90-9100-551000-000,201,90,9100,551000,000,1:1,Direct mapping.,OK
+01-55000-900,Professional Fees,Active,140118002.45,101-90-9100-561000-000,101,90,9100,561000,000,1:1,Direct mapping.,OK
+01-55100-900,Occupancy,Active,95440118.00,101-90-9100-562000-000,101,90,9100,562000,000,1:1,Direct mapping.,OK
+01-55200-900,Data Processing,Active,180225440.66,101-90-9100-563000-000,101,90,9100,563000,000,1:1,Direct mapping.,OK
+01-58000-900,MISC EXP - DO NOT USE,Active,0.00,,,,,,,Unmapped,'Do not use' misc expense. Owner to confirm retirement or a target account.,UNMAPPED
+01-59999-900,OLD SYSTEM SUSPENSE,Inactive,0.00,,,,,,,Retired,"Old-system suspense, zero balance since 2017. Retire.",RETIRED

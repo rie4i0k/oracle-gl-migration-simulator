@@ -1,0 +1,57 @@
+Period,Legacy Combination,Description,Debit,Credit
+Oct-26,01-10100-000,Cash - Operating,1850000000.00,0.00
+Oct-26,02-10200-000,Due From Banks - Intl,420000000.00,0.00
+Oct-26,01-12000-100,Card Member Receivables - Consumer,4200118402.17,0.00
+Oct-26,01-12000-200,CM Recv - Corporate Card,3100552910.40,0.00
+Oct-26,01-12010-200,CM RECV CORP CARD,260004118.25,0.00
+Oct-26,02-12000-300,Card Member Receivables - Intl ,1350207655.80,0.00
+Oct-26,01-12900-000,Reserve for Credit Losses - Receivables,0.00,95000000.00
+Oct-26,01-13000-100,Card Member Loans - Consumer,9800431220.66,0.00
+Oct-26,01-13000-210,Card Member Loans - Small Business,1900250330.10,0.00
+Oct-26,02-13000-300,CM Loans Intl,1100009871.45,0.00
+Oct-26,01-13900-000,Reserve for Credit Losses - Loans,0.00,520000000.00
+Oct-26,01-14000-400,Merchant Settlement Receivable,640337120.93,0.00
+Oct-26,01-15000-900,I/C Receivable - Meridian Intl,310000000.00,0.00
+Oct-26,01-16000-900,Premises & Equipment,980450000.00,0.00
+Oct-26,01-16900-900,Accum Depr - P&E,0.00,410225000.00
+Oct-26,01-17000-900,Prepaid Expenses,145018450.00,0.00
+Oct-26,01-20000-900,Customer Deposits,0.00,12600880412.55
+Oct-26,01-21000-400,Accounts Payable - Merchants,0.00,2450118903.42
+Oct-26,01-21010-400,A/P MERCHANT SETTLEMENT,0.00,180002115.00
+Oct-26,01-22000-100,Membership Rewards Liability,0.00,1650440208.31
+Oct-26,02-22000-300,Rewards Liab - Intl,0.00,230118660.12
+Oct-26,01-23000-900,Accrued Expenses,0.00,390771402.08
+Oct-26,02-25000-900,I/C Payable - Meridian US,0.00,310000000.00
+Oct-26,01-26000-900,Long-Term Debt,0.00,3900000000.00
+Oct-26,01-30000-900,Common Stock,0.00,50000000.00
+Oct-26,01-31000-900,Retained Earnings,0.00,478802098.01
+Oct-26,02-31000-900,Retained Earnings - Intl,0.00,2007667444.06
+Oct-26,01-40000-400,Discount Revenue - US Merchants,0.00,2350602118.40
+Oct-26,01-40010-400,DISC REV MERCH,0.00,95110402.16
+Oct-26,02-40000-400,Discount Revenue - Intl Merchants,0.00,410330995.71
+Oct-26,01-41000-100,Card Fees - Consumer,0.00,720118400.00
+Oct-26,01-41000-200,card fees - corporate,0.00,260440150.00
+Oct-26,02-41000-300,NET CARD FEES INTL,0.00,140221870.00
+Oct-26,02-42000-300,Service Fees - FX Conversion,0.00,98440215.33
+Oct-26,01-42010-100,Delinquency Fees,0.00,64118002.19
+Oct-26,01-42020-410,Network Partnership Fees,0.00,150660418.00
+Oct-26,01-43000-100,Interest Income - CM Loans Consumer,0.00,1480225119.84
+Oct-26,01-43000-210,Int Inc - CM Loans SB,0.00,260118440.29
+Oct-26,01-43100-900,Interest on Deposits w/ Banks,0.00,150442009.12
+Oct-26,01-44000-900,Interest Expense - Customer Deposits,360118402.55,0.00
+Oct-26,01-44100-900,Int Exp - LT Debt,190004118.00,0.00
+Oct-26,01-45000-200,Provision - CM Receivables,62118440.00,0.00
+Oct-26,01-45100-100,Provision - CM Loans,330440118.62,0.00
+Oct-26,02-45100-300,Provision CM Loans Intl,41002995.18,0.00
+Oct-26,01-50000-100,Card Member Rewards - Consumer,1280440219.47,0.00
+Oct-26,02-50000-300,CM Rewards - Intl,165118002.09,0.00
+Oct-26,01-51000-100,Business Development - Cobrand Partners,520660118.20,0.00
+Oct-26,01-51000-200,Bus Dev - Corporate Clients,140118225.00,0.00
+Oct-26,01-52000-100,Card Member Services - Travel Benefits,470225660.18,0.00
+Oct-26,01-53000-900,Marketing - Brand,330118440.00,0.00
+Oct-26,01-53000-100,Marketing - Acquisition,210660225.40,0.00
+Oct-26,01-54000-900,Salaries & Benefits,760225118.33,0.00
+Oct-26,02-54000-900,Salaries & benefits - Intl,120440660.70,0.00
+Oct-26,01-55000-900,Professional Fees,140118002.45,0.00
+Oct-26,01-55100-900,Occupancy,95440118.00,0.00
+Oct-26,01-55200-900,Data Processing,180225440.66,0.00

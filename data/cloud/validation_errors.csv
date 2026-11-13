@@ -1,0 +1,5 @@
+Issue ID,Check,Severity,Blocks Load,Legacy Combination,Target Combination,Balance Impact,Detail,Resolution
+V01,UNMAPPED,Error,No,01-19999-000,,0.00,Conversion clearing account from a 2021 project. No owner identified - awaiting decision.,Account owner to confirm retirement or provide a target before go-live.
+V02,MISSING SEGMENT,Error,No,01-52010-110,,0.00,"Blank target segment(s): Segment2, Segment3. Legacy cost center 110 has no owner in the new structure; Cost Center and Line of Business left blank pending decision.","Assign cost center owner, or retire if no longer used."
+V03,UNMAPPED,Error,No,01-58000-900,,0.00,'Do not use' misc expense. Owner to confirm retirement or a target account.,Account owner to confirm retirement or provide a target before go-live.
+V04,DUPLICATE,Warning,No,01-54000-900,101-90-9100-551000-000,0.00,Listed 2 times in legacy COA: 'Salaries & Benefits' | 'SALARIES AND BENEFITS '.,De-duplicated in mapping; first description kept.

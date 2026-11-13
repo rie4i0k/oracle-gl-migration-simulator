@@ -1,0 +1,54 @@
+Status,Ledger,Accounting Date,Source,Category,Currency,Actual Flag,Segment1,Segment2,Segment3,Segment4,Segment5,Entered Dr,Entered Cr,Description
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,121000,000,4200118402.17,0.00,Oct-26 balance conversion from legacy 01-12000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,131000,000,9800431220.66,0.00,Oct-26 balance conversion from legacy 01-13000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,231000,000,0.00,1650440208.31,Oct-26 balance conversion from legacy 01-22000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,421000,000,0.00,720118400.00,Oct-26 balance conversion from legacy 01-41000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,431000,000,0.00,64118002.19,Oct-26 balance conversion from legacy 01-42010-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,441000,000,0.00,1480225119.84,Oct-26 balance conversion from legacy 01-43000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,462000,000,330440118.62,0.00,Oct-26 balance conversion from legacy 01-45100-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,511000,000,1280440219.47,0.00,Oct-26 balance conversion from legacy 01-50000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,521000,000,520660118.20,0.00,Oct-26 balance conversion from legacy 01-51000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,531000,000,470225660.18,0.00,Oct-26 balance conversion from legacy 01-52000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,10,1100,541000,000,210660225.40,0.00,Oct-26 balance conversion from legacy 01-53000-100
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2100,121000,000,3360557028.65,0.00,"Oct-26 balance conversion from legacy 01-12000-200, 01-12010-200"
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2100,421000,000,0.00,260440150.00,Oct-26 balance conversion from legacy 01-41000-200
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2100,461000,000,62118440.00,0.00,Oct-26 balance conversion from legacy 01-45000-200
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2100,521000,000,140118225.00,0.00,Oct-26 balance conversion from legacy 01-51000-200
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2200,131000,000,1900250330.10,0.00,Oct-26 balance conversion from legacy 01-13000-210
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,20,2200,441000,000,0.00,260118440.29,Oct-26 balance conversion from legacy 01-43000-210
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,40,4100,141000,000,640337120.93,0.00,Oct-26 balance conversion from legacy 01-14000-400
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,40,4100,221000,000,0.00,2630121018.42,"Oct-26 balance conversion from legacy 01-21000-400, 01-21010-400"
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,40,4100,411000,000,0.00,2445712520.56,"Oct-26 balance conversion from legacy 01-40000-400, 01-40010-400"
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,40,4200,432000,000,0.00,150660418.00,Oct-26 balance conversion from legacy 01-42020-410
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9000,110000,000,1850000000.00,0.00,Oct-26 balance conversion from legacy 01-10100-000
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9000,129000,000,0.00,95000000.00,Oct-26 balance conversion from legacy 01-12900-000
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9000,139000,000,0.00,520000000.00,Oct-26 balance conversion from legacy 01-13900-000
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,151000,201,310000000.00,0.00,Oct-26 balance conversion from legacy 01-15000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,161000,000,980450000.00,0.00,Oct-26 balance conversion from legacy 01-16000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,169000,000,0.00,410225000.00,Oct-26 balance conversion from legacy 01-16900-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,171000,000,145018450.00,0.00,Oct-26 balance conversion from legacy 01-17000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,211000,000,0.00,12600880412.55,Oct-26 balance conversion from legacy 01-20000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,232000,000,0.00,390771402.08,Oct-26 balance conversion from legacy 01-23000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,261000,000,0.00,3900000000.00,Oct-26 balance conversion from legacy 01-26000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,311000,000,0.00,50000000.00,Oct-26 balance conversion from legacy 01-30000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,321000,000,0.00,478802098.01,Oct-26 balance conversion from legacy 01-31000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,442000,000,0.00,150442009.12,Oct-26 balance conversion from legacy 01-43100-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,451000,000,360118402.55,0.00,Oct-26 balance conversion from legacy 01-44000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,452000,000,190004118.00,0.00,Oct-26 balance conversion from legacy 01-44100-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,541000,000,330118440.00,0.00,Oct-26 balance conversion from legacy 01-53000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,551000,000,760225118.33,0.00,Oct-26 balance conversion from legacy 01-54000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,561000,000,140118002.45,0.00,Oct-26 balance conversion from legacy 01-55000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,562000,000,95440118.00,0.00,Oct-26 balance conversion from legacy 01-55100-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,101,90,9100,563000,000,180225440.66,0.00,Oct-26 balance conversion from legacy 01-55200-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,121000,000,1350207655.80,0.00,Oct-26 balance conversion from legacy 02-12000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,131000,000,1100009871.45,0.00,Oct-26 balance conversion from legacy 02-13000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,231000,000,0.00,230118660.12,Oct-26 balance conversion from legacy 02-22000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,421000,000,0.00,140221870.00,Oct-26 balance conversion from legacy 02-41000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,431000,000,0.00,98440215.33,Oct-26 balance conversion from legacy 02-42000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,462000,000,41002995.18,0.00,Oct-26 balance conversion from legacy 02-45100-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,30,3100,511000,000,165118002.09,0.00,Oct-26 balance conversion from legacy 02-50000-300
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,40,4100,411000,000,0.00,410330995.71,Oct-26 balance conversion from legacy 02-40000-400
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,90,9000,110000,000,420000000.00,0.00,Oct-26 balance conversion from legacy 02-10200-000
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,90,9100,251000,101,0.00,310000000.00,Oct-26 balance conversion from legacy 02-25000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,90,9100,321000,000,0.00,2007667444.06,Oct-26 balance conversion from legacy 02-31000-900
+NEW,MCS USD Primary Ledger,2026/10/31,Legacy Conversion,Balance Conversion,USD,A,201,90,9100,551000,000,120440660.70,0.00,Oct-26 balance conversion from legacy 02-54000-900

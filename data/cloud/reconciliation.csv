@@ -1,0 +1,32 @@
+Level,Item,Legacy Amount,Cloud Amount,Variance,Result
+Overall,Total debits,31454854384.59,31454854384.59,0.00,PASS
+Overall,Total credits,31454854384.59,31454854384.59,0.00,PASS
+Overall,Net (debits - credits),0.00,0.00,0.00,PASS
+Line of Business,U.S. Consumer Services,12898074234.36,12898074234.36,0.00,PASS
+Line of Business,Commercial Services,4942485433.46,4942485433.46,0.00,PASS
+Line of Business,International Card Services,2187557779.07,2187557779.07,0.00,PASS
+Line of Business,Global Merchant and Network Services,-4996487831.76,-4996487831.76,0.00,PASS
+Line of Business,Corporate & Other,-15031629615.13,-15031629615.13,0.00,PASS
+Account group,Cash and cash equivalents,2270000000.00,2270000000.00,0.00,PASS
+Account group,Card Member receivables,8815883086.62,8815883086.62,0.00,PASS
+Account group,Card Member loans,12280691422.21,12280691422.21,0.00,PASS
+Account group,Other assets,1095355570.93,1095355570.93,0.00,PASS
+Account group,Premises and equipment,570225000.00,570225000.00,0.00,PASS
+Account group,Customer deposits,-12600880412.55,-12600880412.55,0.00,PASS
+Account group,Accounts payable,-2630121018.42,-2630121018.42,0.00,PASS
+Account group,Other liabilities,-2581330270.51,-2581330270.51,0.00,PASS
+Account group,Long-term debt,-3900000000.00,-3900000000.00,0.00,PASS
+Account group,Common shares,-50000000.00,-50000000.00,0.00,PASS
+Account group,Retained earnings,-2486469542.07,-2486469542.07,0.00,PASS
+Account group,Discount revenue,-2856043516.27,-2856043516.27,0.00,PASS
+Account group,Net card fees,-1120780420.00,-1120780420.00,0.00,PASS
+Account group,Service fees and other revenue,-313218635.52,-313218635.52,0.00,PASS
+Account group,Total interest income,-1890785569.25,-1890785569.25,0.00,PASS
+Account group,Total interest expense,550122520.55,550122520.55,0.00,PASS
+Account group,Provisions for credit losses,433561553.80,433561553.80,0.00,PASS
+Account group,Card Member rewards,1445558221.56,1445558221.56,0.00,PASS
+Account group,Business development,660778343.20,660778343.20,0.00,PASS
+Account group,Card Member services,470225660.18,470225660.18,0.00,PASS
+Account group,Marketing,540778665.40,540778665.40,0.00,PASS
+Account group,Salaries and employee benefits,880665779.03,880665779.03,0.00,PASS
+Account group,"Other, net",415783561.11,415783561.11,0.00,PASS
